@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@300&display=swap');
+*{
+  font-family: 'Alegreya Sans SC', sans-serif;
+}
+h2 {
+    color: green;
+}
+h4 {
+  color: rgb(228, 22, 22);
+}
